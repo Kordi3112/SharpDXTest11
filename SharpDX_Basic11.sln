@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpDX_Basic11", "SharpDX_Basic11.csproj", "{7DC21CCD-FF1E-4BC4-83D5-F884E88D0B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC21CCD-FF1E-4BC4-83D5-F884E88D0B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC21CCD-FF1E-4BC4-83D5-F884E88D0B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC21CCD-FF1E-4BC4-83D5-F884E88D0B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC21CCD-FF1E-4BC4-83D5-F884E88D0B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C66F44A-EE7B-4216-BA1B-D0E3ABCC3EDB}
+	EndGlobalSection
+EndGlobal
